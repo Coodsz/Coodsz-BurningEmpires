@@ -62,9 +62,9 @@ A Burning Empires server only runs on Windows. Linux hosted servers cannot run i
 
 # Do this
 1. Open `Coodsz Burning Empires Server Tool.exe` in the Coodsz Burning Empires Tools folder.
-2. Click **Prepare server** once. It finds the dedicated server inside the Workshop Coop folder and copies it, with the files Burning Empires needs on it. If it says Burning Empires is missing, click **Install or repair Burning Empires** next to it.
-3. Type a name and click **New campaign**. The server starts a fresh Burning Empires world under that name. You can also host a single player Burning Empires save. If it says Single player copy, click **Name server copy** first. A save without Burning Empires does not load.
-4. Click **Start server**. The first time, it shows the Coop server terms. Read them and click **I accept**, or the server will not start.
+2. The Server page has numbered steps. The first time, start with step **3, Set up the host once**, and click **Prepare server**. It finds the dedicated server inside the Workshop Coop folder and copies it, with the files Burning Empires needs on it. If it says Burning Empires is missing, click **Install or repair Burning Empires** next to it.
+3. In step **1**, type a name and click **New campaign**. The server makes a fresh Burning Empires world under that name, so you don't need a single player save. The save box in step **2** stays empty until then, which is fine. To host a Burning Empires save you already have, pick it in step **2** instead. If it says Single player copy, click **Name server copy** first. A save without Burning Empires does not load.
+4. In step **4**, click **Start server**. The first time, it shows the Coop server terms. Read them and click **I accept**, or the server will not start.
 5. Wait until the status says **SERVING**. The first start of a new campaign builds the world and can take a long time. Do not stop the server then.
 6. Give players your IP address with the port forwarded and UDP `4200`. That is the recommended way. **Open the port on my router automatically** and **Allow through firewall** help when friends cannot reach you.
 7. Steam lobby is optional. Tick **Advertise through Steam** on the Server page before you click **Start server**, keep Steam running, and give friends your Steam profile name.
