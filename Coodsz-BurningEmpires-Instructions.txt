@@ -6,7 +6,7 @@ PART 1, players
 
 # Coodsz Burning Empires
 
-Tools version **v1.0.0** (Client Launcher and Server Tool) for **Burning Empires 2.0.2** with **Burning Empires Coop Compat 1.0.0**.
+Tools version **v1.0.1** (Client Launcher and Server Tool) for **Burning Empires 2.0.2** with **Burning Empires Coop Compat 1.0.0**.
 
 Thank you to the Burning Empires team, author mumahutuo and project lead Levente, for giving permission for the Coop compat and these tools. Burning Empires is on Nexus Mods (mods/7750).
 
