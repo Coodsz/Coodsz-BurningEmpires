@@ -1,6 +1,6 @@
 # Burning Empires mod list
 
-Which mods work with Burning Empires in Coop (Burning Empires 2.0.2, Bannerlord v1.4.8, Coop v0.1.6). This page is made from
+Which mods work with Burning Empires in Coop (Burning Empires 2.0.2, Bannerlord v1.4.8, Coop v0.1.7). This page is made from
 [compat/be-mod-compat.json](compat/be-mod-compat.json), the list the Coodsz Burning Empires tools show,
 and is written again on its own whenever a player report is counted.
 
@@ -21,7 +21,7 @@ Coodsz tested it himself.
 
 ## How to report a mod
 
-Click **Report a mod** at the top of the Coodsz Burning Empires Client Launcher (or **Report** on the bar after a
+Click **Report a mod** on the Logs and help page of the Coodsz Burning Empires Client Launcher (or **Report** on the bar after a
 game) and pick Works or Broken for each mod. No GitHub account is needed. A report counts here about a
 day later.
 With a GitHub account you can also use the [report form](https://github.com/Coodsz/Coodsz-BurningEmpires/issues/new?template=mod-compat.yml).
