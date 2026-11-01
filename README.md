@@ -18,7 +18,7 @@ See [MODS.md](MODS.md) for the mod list.
 
 ## Report a mod
 
-Click **Report a mod** at the top of the Coodsz Burning Empires Client Launcher and pick Works or Broken. No GitHub account is needed. With an account you can use the [report form](https://github.com/Coodsz/Coodsz-BurningEmpires/issues/new?template=mod-compat.yml). Player reports show in the Players column of the list. Coodsz sets the status.
+Click **Report a mod** on the Logs and help page of the Coodsz Burning Empires Client Launcher and pick Works or Broken. No GitHub account is needed. With an account you can use the [report form](https://github.com/Coodsz/Coodsz-BurningEmpires/issues/new?template=mod-compat.yml). Player reports show in the Players column of the list. Coodsz sets the status.
 
 ## Known issues
 

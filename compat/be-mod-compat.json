@@ -3,7 +3,7 @@
   "schemaVersion": 2,
   "be": "2.0.2",
   "game": "v1.4.8",
-  "coop": "v0.1.6",
+  "coop": "v0.1.7",
   "updated": "2026-10-26",
   "mods": [
     { "id": "BurningEmpires", "name": "Burning Empires", "workshopId": "", "nexusId": "7750", "tag": "safe", "source": "coodsz-notes", "checked": "2026-10-26", "note": "The Burning Empires overhaul itself, version 2.0.2 (main file plus hotfix from Nexus). It is part of the core and always loads." },

@@ -58,7 +58,7 @@ export const COMMON_MODS = ['bannerlord.harmony', 'bannerlord.butterlib', 'banne
 // The status changes on its own once works - broken reaches this difference.
 export const THRESHOLD = 3;
 
-const KEY_ORDER = ['id', 'name', 'status', 'coop', 'note', 'workshop', 'nexus', 'category', 'works', 'broken', 'clientOnly', 'lastReport', 'testedWith', 'conflicts', 'needs', 'idGuess'];
+const KEY_ORDER = ['id', 'name', 'status', 'coop', 'note', 'serverHideAssets', 'workshop', 'nexus', 'category', 'works', 'broken', 'clientOnly', 'lastReport', 'testedWith', 'conflicts', 'needs', 'idGuess'];
 const ID_PATTERN = /^[\p{L}\p{N}_.\-' ()+&!:]{1,100}$/u;
 
 // ---- JSONC ---------------------------------------------------------------
@@ -385,9 +385,9 @@ export function renderModsPage(doc) {
     '',
     '## How to report a mod',
     '',
-    'Click **Report a mod** at the top of Coodsz Coop and Friends (or **Report** on the bar after a game)',
-    'and pick Works or Broken for each mod. No GitHub account is needed. A report counts here about a',
-    'day later.',
+    'In Coodsz Coop and Friends, click **Report** beside a mod on the Mods page, or **Report a mod** on the',
+    'Logs and help page (or **Report** on the bar after a game), and pick Works or Broken for each mod. No',
+    'GitHub account is needed. A report counts here about a day later.',
     `With a GitHub account you can also use the [report form](${REPORT_FORM_URL}).`,
     '',
     '| Mod | Status | Players | Last report | Checked with Coop | Note |',
