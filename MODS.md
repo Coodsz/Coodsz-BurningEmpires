@@ -59,5 +59,6 @@ With a GitHub account you can also use the [report form](https://github.com/Cood
 | [The Old Realms - Environment](https://steamcommunity.com/sharedfiles/filedetails/?id=3025579210) | Broken |  |  | Another big overhaul. It does not work together with Burning Empires, and big overhauls do not work in Coop on their own. |
 | [TheLandOfSika](https://steamcommunity.com/sharedfiles/filedetails/?id=2875157034) | Broken |  |  | Another big overhaul. It does not work together with Burning Empires, and big overhauls do not work in Coop on their own. |
 | [Wheel of Time Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3251984526) | Broken |  |  | Another big overhaul. It does not work together with Burning Empires, and big overhauls do not work in Coop on their own. |
+| Harmony | Not checked yet | 1 works, 0 broken |  |  |
 
-31 mods. List updated 2026-10-26.
+32 mods. List updated 2026-10-26.

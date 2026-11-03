@@ -37,5 +37,8 @@
     { "id": "TOR_Environment", "name": "The Old Realms - Environment", "workshopId": "3025579210", "tag": "broken", "source": "coodsz-notes", "checked": "2026-10-26", "note": "Another big overhaul. It does not work together with Burning Empires, and big overhauls do not work in Coop on their own." },
     { "id": "", "name": "TheLandOfSika", "workshopId": "2875157034", "tag": "broken", "source": "coodsz-notes", "checked": "2026-10-26", "note": "Another big overhaul. It does not work together with Burning Empires, and big overhauls do not work in Coop on their own." },
     { "id": "", "name": "Wheel of Time Mod", "workshopId": "3251984526", "tag": "broken", "source": "coodsz-notes", "checked": "2026-10-26", "note": "Another big overhaul. It does not work together with Burning Empires, and big overhauls do not work in Coop on their own." }
+  ],
+  "community": [
+    { "id": "Bannerlord.Harmony", "name": "Harmony", "works": 1, "broken": 0, "lastReport": "2026-11-02" }
   ]
 }
