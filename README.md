@@ -8,6 +8,20 @@ Tools that make hosting and playing Burning Empires in Bannerlord Coop easier. M
 
 Made for Burning Empires 2.0.2, Bannerlord 1.4.8 and Coop 0.1.6. Windows only.
 
+## What it looks like
+
+![Coodsz Burning Empires Server Tool dashboard](images/server-tool-dashboard.png)
+
+The Server Tool dashboard. Start the server here and see the mods, versions and the addresses your friends can use.
+
+![Coodsz Burning Empires Client Launcher Play page](images/client-launcher-play.png)
+
+The Client Launcher Play page. It checks Bannerlord, Burning Empires and Coop, says what to fix, then joins the server.
+
+![Coodsz Burning Empires Server Tool Mods page](images/server-tool-mods.png)
+
+The Server Tool Mods page, with the load order and how each mod works in Coop.
+
 ## Download
 
 Get the latest Coodsz-Burning-Empires-Tools zip from [Releases](https://github.com/Coodsz/Coodsz-BurningEmpires/releases/latest). It holds both programs. Unzip it before you open a tool. The instructions file in the release explains every step.
