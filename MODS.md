@@ -4,6 +4,8 @@ Which mods work with Burning Empires in Coop (Burning Empires 2.0.2, Bannerlord 
 [compat/be-mod-compat.json](compat/be-mod-compat.json), the list the Coodsz Burning Empires tools show,
 and is written again on its own whenever a player report is counted.
 
+Burning Empires remains on Bannerlord 1.4.8. The official Coop v0.1.8 release for Bannerlord 1.5.7 is a different stack.
+
 ## What the statuses mean
 
 The status is set by hand by Coodsz. Player reports never change it; they show in the Players column.
